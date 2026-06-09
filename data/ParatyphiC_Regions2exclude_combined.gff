@@ -1,0 +1,402 @@
+NC_012125.1	RefSeq	region	1062998	1077544	.	+	.	ID=id34;gbkey=mobile_element
+NC_012125.1	RefSeq	region	2762605	2776168	.	+	.	ID=id105;gbkey=mobile_element
+NC_012125.1	Protein Homology	CDS	926834	927895	.	-	0	ID=cds851;Parent=gene870;Dbxref=Genbank:WP_000038208.1;Name=WP_000038208.1;gbkey=CDS;product=phage portal protein;protein_id=WP_000038208.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	929828	930631	.	+	0	ID=cds853;Parent=gene872;Dbxref=Genbank:WP_000018801.1;Name=WP_000018801.1;gbkey=CDS;product=phage capsid scaffolding protein;protein_id=WP_000018801.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	932966	933472	.	+	0	ID=cds857;Parent=gene876;Dbxref=Genbank:WP_000084220.1;Name=WP_000084220.1;gbkey=CDS;product=phage tail protein;protein_id=WP_000084220.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	934173	935300	.	+	0	ID=cds859;Parent=gene878;Dbxref=Genbank:WP_000220203.1;Name=WP_000220203.1;gbkey=CDS;product=phage tail protein;protein_id=WP_000220203.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	937317	939287	.	+	0	ID=cds865;Parent=gene884;Dbxref=Genbank:WP_000811084.1;Name=WP_000811084.1;gbkey=CDS;product=phage tail tape measure protein;protein_id=WP_000811084.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	941384	943541	.	+	0	ID=cds869;Parent=gene888;exception=annotated by transcript or proteomic data;gbkey=CDS;product=phage tail protein;pseudo=true;transl_table=11
+NC_012125.1	Protein Homology	CDS	1536494	1536826	.	+	0	ID=cds1431;Parent=gene1461;end_range=1536826,.;exception=unextendable partial coding region;gbkey=CDS;partial=true;product=phage tail protein;pseudo=true;transl_table=11
+NC_012125.1	Protein Homology	CDS	1554590	1556146	.	-	0	ID=cds1447;Parent=gene1478;Dbxref=Genbank:WP_000957749.1;Name=WP_000957749.1;Note=involved in resistance to the phages N4 and lambda;gbkey=CDS;product=phage resistance protein;protein_id=WP_000957749.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	1904498	1905093	.	+	0	ID=cds1792;Parent=gene1830;exception=annotated by transcript or proteomic data;gbkey=CDS;product=phage tail protein;pseudo=true;transl_except=(pos:1904771..1904773%2Caa:Other);transl_table=11
+NC_012125.1	Protein Homology	CDS	1905104	1905436	.	+	0	ID=cds1793;Parent=gene1831;Dbxref=Genbank:WP_031606598.1;Name=WP_031606598.1;gbkey=CDS;product=phage tail protein;protein_id=WP_031606598.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2096133	2096801	.	+	0	ID=cds1981;Parent=gene2021;Dbxref=Genbank:WP_000511006.1;Name=WP_000511006.1;Note=involved in maintaining membrane potential under membrane stress conditions%3B also acts as a negative transcriptional regulator of the phage shock protein (psp) operon(pspABCDE) by regulating the transcriptional activator PspF;gbkey=CDS;product=phage-shock protein;protein_id=WP_000511006.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2096861	2097085	.	+	0	ID=cds1982;Parent=gene2022;Dbxref=Genbank:WP_001274953.1;Name=WP_001274953.1;Note=DNA-binding transcriptional regulator%3B acts together with PspC to induce psp operon during infection with phage%2C exposure to ethanol or osmotic shock%3B forms a complex with PspA and C%3B PspC is required for PspAB binding;gbkey=CDS;gene=pspB;product=phage shock protein B;protein_id=WP_001274953.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2097467	2097685	.	+	0	ID=cds1984;Parent=gene2024;Dbxref=Genbank:WP_001097607.1;Name=WP_001097607.1;gbkey=CDS;product=phage shock protein D;protein_id=WP_001097607.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2521215	2521400	.	-	0	ID=cds2400;Parent=gene2442;Dbxref=Genbank:WP_001532450.1;Name=WP_001532450.1;gbkey=CDS;product=phage tail protein;protein_id=WP_001532450.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2754278	2755825	.	-	0	ID=cds2649;Parent=gene2695;Dbxref=Genbank:WP_001009210.1;Name=WP_001009210.1;gbkey=CDS;product=phage capsid protein;protein_id=WP_001009210.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4360570	4362924	.	-	0	ID=cds4143;Parent=gene4240;Dbxref=Genbank:WP_001262482.1;Name=WP_001262482.1;gbkey=CDS;product=phage tail tape measure protein;protein_id=WP_001262482.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4395079	4395321	.	+	0	ID=cds4177;Parent=gene4274;Dbxref=Genbank:WP_000891414.1;Name=WP_000891414.1;Note=coordinately regulated along with pspA%3B PspF-dependent induction in response to secretin overexpression in Yersinia;gbkey=CDS;gene=pspG;product=phage-shock protein;protein_id=WP_000891414.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	335267	335464	.	+	0	ID=cds293;Parent=gene300;Dbxref=Genbank:WP_001224041.1;Name=WP_001224041.1;gbkey=CDS;product=transposase;protein_id=WP_001224041.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	363782	364645	.	-	0	ID=cds321;Parent=gene329;Dbxref=Genbank:WP_000881468.1;Name=WP_000881468.1;gbkey=CDS;product=transposase;protein_id=WP_000881468.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	608510	608635	.	-	0	ID=cds550;Parent=gene559;Dbxref=Genbank:WP_001537819.1;Name=WP_001537819.1;gbkey=CDS;product=transposase;protein_id=WP_001537819.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	612617	612745	.	-	0	ID=cds555;Parent=gene564;Dbxref=Genbank:WP_001539384.1;Name=WP_001539384.1;gbkey=CDS;product=transposase;protein_id=WP_001539384.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	612922	613320	.	-	0	ID=cds556;Parent=gene565;gbkey=CDS;product=transposase;pseudo=true;transl_except=(pos:complement(613210..613212)%2Caa:Other);transl_table=11
+NC_012125.1	Protein Homology	CDS	613579	613812	.	-	0	ID=cds557;Parent=gene566;Dbxref=Genbank:WP_012664400.1;Name=WP_012664400.1;gbkey=CDS;product=transposase;protein_id=WP_012664400.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	1029885	1030286	.	+	0	ID=cds948;Parent=gene968;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	1323836	1324237	.	+	0	ID=cds1213;Parent=gene1239;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	1887012	1887413	.	-	0	ID=cds1773;Parent=gene1811;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	1919103	1920245	.	+	0	ID=cds1809;Parent=gene1847;exception=annotated by transcript or proteomic data;gbkey=CDS;product=transposase;pseudo=true;transl_except=(pos:1920099..1920101%2Caa:Other);transl_table=11
+NC_012125.1	Protein Homology	CDS	2421690	2422091	.	+	0	ID=cds2302;Parent=gene2344;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2593456	2593857	.	-	0	ID=cds2480;Parent=gene2524;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2733812	2734060	.	-	0	ID=cds2628;Parent=gene2674;Dbxref=Genbank:WP_001539640.1;Name=WP_001539640.1;gbkey=CDS;product=transposase;protein_id=WP_001539640.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2843577	2843879	.	+	0	ID=cds2730;Parent=gene2780;Dbxref=Genbank:WP_000747003.1;Name=WP_000747003.1;gbkey=CDS;product=transposase;protein_id=WP_000747003.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2843906	2844745	.	+	0	ID=cds2731;Parent=gene2781;Dbxref=Genbank:WP_012664657.1;Name=WP_012664657.1;gbkey=CDS;product=transposase;protein_id=WP_012664657.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	2979150	2979347	.	+	0	ID=cds2865;Parent=gene2919;end_range=2979347,.;gbkey=CDS;partial=true;product=transposase;pseudo=true;start_range=.,2979150;transl_except=(pos:2979276..2979278%2Caa:Other);transl_table=11
+NC_012125.1	Protein Homology	CDS	2983567	2983656	.	-	0	ID=cds2872;Parent=gene2926;Dbxref=Genbank:WP_000343685.1;Name=WP_000343685.1;gbkey=CDS;product=transposase;protein_id=WP_000343685.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	3015010	3015558	.	-	0	ID=cds2907;Parent=gene2961;Dbxref=Genbank:WP_000029526.1;Name=WP_000029526.1;gbkey=CDS;product=transposase;protein_id=WP_000029526.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	3027376	3027777	.	+	0	ID=cds2916;Parent=gene2970;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	3258632	3259033	.	+	0	ID=cds3133;Parent=gene3191;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	3296874	3297275	.	+	0	ID=cds3170;Parent=gene3228;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	3886579	3886737	.	+	0	ID=cds3719;Parent=gene3789;Dbxref=Genbank:WP_001233441.1;Name=WP_001233441.1;gbkey=CDS;product=transposase;protein_id=WP_001233441.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	3944633	3945034	.	-	0	ID=cds3775;Parent=gene3845;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4278479	4278880	.	+	0	ID=cds4076;Parent=gene4168;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4491989	4492195	.	+	0	ID=cds4250;Parent=gene4347;Dbxref=Genbank:WP_001667845.1;Name=WP_001667845.1;gbkey=CDS;product=transposase;protein_id=WP_001667845.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4494004	4494153	.	-	0	ID=cds4253;Parent=gene4350;Dbxref=Genbank:WP_001736103.1;Name=WP_001736103.1;gbkey=CDS;product=transposase;protein_id=WP_001736103.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4494164	4494454	.	-	0	ID=cds4254;Parent=gene4351;Dbxref=Genbank:WP_001667848.1;Name=WP_001667848.1;gbkey=CDS;product=transposase;protein_id=WP_001667848.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4494516	4495049	.	-	0	ID=cds4255;Parent=gene4352;Dbxref=Genbank:WP_015899484.1;Name=WP_015899484.1;gbkey=CDS;product=transposase;protein_id=WP_015899484.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4509890	4510840	.	+	0	ID=cds4271;Parent=gene4368;Dbxref=Genbank:WP_000368221.1;Name=WP_000368221.1;gbkey=CDS;product=transposase;protein_id=WP_000368221.1;transl_table=11
+NC_012125.1	Protein Homology	CDS	4760435	4760836	.	-	0	ID=cds4524;Parent=gene4626;Dbxref=Genbank:WP_000988123.1;Name=WP_000988123.1;gbkey=CDS;product=transposase;protein_id=WP_000988123.1;transl_table=11
+NC_012125.1	RefSeq	repeat_region	57801	61131	.	+	.	ID=id1;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	89204	89400	.	+	.	ID=id2;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	285181	290667	.	+	.	ID=id3;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	345945	346099	.	+	.	ID=id11;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	609767	610462	.	+	.	ID=id14;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	610608	611101	.	+	.	ID=id15;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	615511	616004	.	+	.	ID=id16;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	616150	616845	.	+	.	ID=id17;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	797063	797281	.	+	.	ID=id27;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	807081	810418	.	+	.	ID=id29;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	989198	989382	.	+	.	ID=id30;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1009618	1010328	.	+	.	ID=id32;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1029830	1031145	.	+	.	ID=id33;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1062998	1068274	.	+	.	ID=id35;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1070914	1071343	.	+	.	ID=id36;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1073720	1074456	.	+	.	ID=id37;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1074840	1076316	.	+	.	ID=id38;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1078567	1080809	.	+	.	ID=id39;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1201026	1201149	.	+	.	ID=id40;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1251573	1251768	.	+	.	ID=id41;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1296001	1296152	.	+	.	ID=id42;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1306864	1307082	.	+	.	ID=id43;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1323781	1325095	.	+	.	ID=id50;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1326781	1326984	.	+	.	ID=id51;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1353552	1353933	.	+	.	ID=id55;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1479706	1479873	.	+	.	ID=id57;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1484313	1484480	.	+	.	ID=id58;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1526668	1532976	.	+	.	ID=id59;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1535363	1535476	.	+	.	ID=id60;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1536836	1537461	.	+	.	ID=id61;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1582783	1582990	.	+	.	ID=id63;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1692371	1693689	.	+	.	ID=id64;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1707845	1709163	.	+	.	ID=id65;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1775728	1775938	.	+	.	ID=id66;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1777680	1777948	.	+	.	ID=id68;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1787446	1787708	.	+	.	ID=id70;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1790862	1791006	.	+	.	ID=id73;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1821801	1822279	.	+	.	ID=id75;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1886154	1887467	.	+	.	ID=id79;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1918019	1918161	.	+	.	ID=id80;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	1993946	1994159	.	+	.	ID=id82;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2068810	2069015	.	+	.	ID=id85;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2291290	2291999	.	+	.	ID=id86;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2334203	2334541	.	+	.	ID=id87;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2382634	2382788	.	+	.	ID=id90;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2421636	2422950	.	+	.	ID=id91;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2465276	2465428	.	+	.	ID=id92;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2525056	2525261	.	+	.	ID=id93;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2592598	2593912	.	+	.	ID=id96;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2650819	2651004	.	+	.	ID=id97;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2690191	2690405	.	+	.	ID=id99;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2734914	2735538	.	+	.	ID=id101;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2737964	2738077	.	+	.	ID=id102;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2759116	2761085	.	+	.	ID=id103;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2761985	2763461	.	+	.	ID=id104;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2763786	2764521	.	+	.	ID=id106;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2767812	2768241	.	+	.	ID=id107;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2769151	2774427	.	+	.	ID=id108;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2795447	2800969	.	+	.	ID=id109;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2849459	2849937	.	+	.	ID=id114;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2863235	2863358	.	+	.	ID=id115;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	2904997	2905353	.	+	.	ID=id116;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3010604	3011242	.	+	.	ID=id121;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3027321	3028636	.	+	.	ID=id122;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3028681	3029258	.	+	.	ID=id123;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3132274	3132482	.	+	.	ID=id126;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3254513	3254727	.	+	.	ID=id129;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3258577	3259892	.	+	.	ID=id130;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3296819	3298134	.	+	.	ID=id131;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3451785	3455123	.	+	.	ID=id135;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3499506	3499636	.	+	.	ID=id136;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3499750	3505230	.	+	.	ID=id139;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3531219	3532403	.	+	.	ID=id145;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3562376	3562607	.	+	.	ID=id146;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3757298	3757443	.	+	.	ID=id147;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3757467	3757612	.	+	.	ID=id148;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3893800	3893994	.	+	.	ID=id152;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3943774	3945088	.	+	.	ID=id153;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	3948043	3954351	.	+	.	ID=id154;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4031593	4037018	.	+	.	ID=id155;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4041073	4042257	.	+	.	ID=id164;gbkey=repeat_region;gene=tuf
+NC_012125.1	RefSeq	repeat_region	4074402	4074780	.	+	.	ID=id165;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4074803	4079732	.	+	.	ID=id167;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4169295	4174969	.	+	.	ID=id177;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4278424	4279739	.	+	.	ID=id182;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4324501	4330323	.	+	.	ID=id183;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4351304	4351433	.	+	.	ID=id189;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4351472	4351601	.	+	.	ID=id190;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4416380	4416881	.	+	.	ID=id191;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4418504	4419144	.	+	.	ID=id192;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4419377	4420347	.	+	.	ID=id193;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4508223	4508393	.	+	.	ID=id194;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4545290	4545443	.	+	.	ID=id195;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4547462	4547632	.	+	.	ID=id196;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4608440	4608981	.	+	.	ID=id198;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4739863	4740015	.	+	.	ID=id203;gbkey=repeat_region
+NC_012125.1	RefSeq	repeat_region	4759577	4760890	.	+	.	ID=id204;gbkey=repeat_region
+NC_012125.1	RefSeq	rRNA	285487	287040	.	+	.	ID=rna0;Parent=gene252;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	287533	290461	.	+	.	ID=rna3;Parent=gene255;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	290543	290658	.	+	.	ID=rna4;Parent=gene256;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	2795754	2795869	.	-	.	ID=rna46;Parent=gene2746;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	2795951	2798879	.	-	.	ID=rna47;Parent=gene2747;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	2799211	2800766	.	-	.	ID=rna49;Parent=gene2749;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	3499513	3499628	.	-	.	ID=rna61;Parent=gene3424;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	3499758	3499873	.	-	.	ID=rna63;Parent=gene3426;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	3499955	3502883	.	-	.	ID=rna64;Parent=gene3427;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	3503374	3504929	.	-	.	ID=rna67;Parent=gene3430;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4031947	4033502	.	+	.	ID=rna70;Parent=gene3926;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4033834	4036762	.	+	.	ID=rna72;Parent=gene3928;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	4036844	4036959	.	+	.	ID=rna73;Parent=gene3929;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4074708	4076261	.	+	.	ID=rna78;Parent=gene3967;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4076593	4079522	.	+	.	ID=rna80;Parent=gene3969;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	4079604	4079719	.	+	.	ID=rna81;Parent=gene3970;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4169650	4171205	.	+	.	ID=rna88;Parent=gene4060;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4171537	4174465	.	+	.	ID=rna90;Parent=gene4062;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	4174547	4174662	.	+	.	ID=rna91;Parent=gene4063;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4324847	4326403	.	+	.	ID=rna92;Parent=gene4204;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4326894	4329822	.	+	.	ID=rna95;Parent=gene4207;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	cmsearch	rRNA	4329904	4330019	.	+	.	ID=rna96;Parent=gene4208;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	tRNAscan-SE	tRNA	287100	287176	.	+	.	ID=rna1;Parent=gene253;anticodon=(pos:287134..287136);gbkey=tRNA;product=tRNA-Ile
+NC_012125.1	tRNAscan-SE	tRNA	287286	287361	.	+	.	ID=rna2;Parent=gene254;anticodon=(pos:287319..287321);gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	tRNAscan-SE	tRNA	290850	290926	.	+	.	ID=rna5;Parent=gene257;anticodon=(pos:290884..290886);gbkey=tRNA;product=tRNA-Asp
+NC_012125.1	tRNAscan-SE	tRNA	300290	300366	.	+	.	ID=rna6;Parent=gene268;anticodon=(pos:300324..300326);gbkey=tRNA;product=tRNA-Asp
+NC_012125.1	tRNAscan-SE	tRNA	363271	363346	.	+	.	ID=rna7;Parent=gene328;anticodon=(pos:363304..363306);gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	tRNAscan-SE	tRNA	608095	608171	.	+	.	ID=rna8;Parent=gene558;anticodon=(pos:608129..608131);gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	728739	728813	.	-	.	ID=rna9;Parent=gene675;anticodon=(pos:complement(728779..728781));gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	tRNAscan-SE	tRNA	728857	728931	.	-	.	ID=rna10;Parent=gene676;anticodon=(pos:complement(728897..728899));gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	tRNAscan-SE	tRNA	728978	729054	.	-	.	ID=rna11;Parent=gene677;anticodon=(pos:complement(729018..729020));gbkey=tRNA;product=tRNA-Met
+NC_012125.1	tRNAscan-SE	tRNA	729070	729144	.	-	.	ID=rna12;Parent=gene678;anticodon=(pos:complement(729110..729112));gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	tRNAscan-SE	tRNA	729180	729254	.	-	.	ID=rna13;Parent=gene679;anticodon=(pos:complement(729220..729222));gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	tRNAscan-SE	tRNA	729278	729362	.	-	.	ID=rna14;Parent=gene680;anticodon=(pos:complement(729326..729328));gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	tRNAscan-SE	tRNA	729371	729447	.	-	.	ID=rna15;Parent=gene681;anticodon=(pos:complement(729411..729413));gbkey=tRNA;product=tRNA-Met
+NC_012125.1	tRNAscan-SE	tRNA	796638	796713	.	+	.	ID=rna16;Parent=gene742;anticodon=(pos:796671..796673);gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	tRNAscan-SE	tRNA	796853	796928	.	+	.	ID=rna17;Parent=gene743;anticodon=(pos:796886..796888);gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	tRNAscan-SE	tRNA	797063	797138	.	+	.	ID=rna18;Parent=gene744;anticodon=(pos:797096..797098);gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	tRNAscan-SE	tRNA	989294	989381	.	-	.	ID=rna19;Parent=gene934;anticodon=(pos:complement(989345..989347));gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	tRNAscan-SE	tRNA	1307007	1307082	.	-	.	ID=rna20;Parent=gene1221;anticodon=(pos:complement(1307047..1307049));gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	tRNAscan-SE	tRNA	1307087	1307162	.	-	.	ID=rna21;Parent=gene1222;anticodon=(pos:complement(1307127..1307129));gbkey=tRNA;product=tRNA-Val
+NC_012125.1	tRNAscan-SE	tRNA	1307204	1307279	.	-	.	ID=rna22;Parent=gene1223;anticodon=(pos:complement(1307244..1307246));gbkey=tRNA;product=tRNA-Val
+NC_012125.1	tRNAscan-SE	tRNA	1307325	1307400	.	-	.	ID=rna23;Parent=gene1224;anticodon=(pos:complement(1307365..1307367));gbkey=tRNA;product=tRNA-Val
+NC_012125.1	tRNAscan-SE	tRNA	1310106	1310181	.	+	.	ID=rna24;Parent=gene1228;anticodon=(pos:1310139..1310141);gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	tRNAscan-SE	tRNA	1310224	1310299	.	+	.	ID=rna25;Parent=gene1229;anticodon=(pos:1310257..1310259);gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	tRNAscan-SE	tRNA	1344392	1344473	.	-	.	ID=rna26;Parent=gene1269;gbkey=tRNA;product=tRNA-OTHER
+NC_012125.1	tRNAscan-SE	tRNA	1352240	1352314	.	+	.	ID=rna27;Parent=gene1283;anticodon=(pos:1352273..1352275);gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	tRNAscan-SE	tRNA	1352320	1352395	.	+	.	ID=rna28;Parent=gene1284;anticodon=(pos:1352353..1352355);gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	tRNAscan-SE	tRNA	1374316	1374390	.	-	.	ID=rna29;Parent=gene1307;anticodon=(pos:complement(1374355..1374357));gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	1539872	1539948	.	-	.	ID=rna30;Parent=gene1463;anticodon=(pos:complement(1539912..1539914));gbkey=tRNA;product=tRNA-Pro
+NC_012125.1	tRNAscan-SE	tRNA	1775855	1775930	.	-	.	ID=rna31;Parent=gene1685;anticodon=(pos:complement(1775895..1775897));gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	tRNAscan-SE	tRNA	1777688	1777763	.	+	.	ID=rna32;Parent=gene1687;anticodon=(pos:1777721..1777723);gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	tRNAscan-SE	tRNA	1787631	1787706	.	-	.	ID=rna33;Parent=gene1698;anticodon=(pos:complement(1787671..1787673));gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	tRNAscan-SE	tRNA	1788693	1788782	.	+	.	ID=rna34;Parent=gene1700;anticodon=(pos:1788727..1788729);gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	tRNAscan-SE	tRNA	1834559	1834634	.	+	.	ID=rna35;Parent=gene1754;anticodon=(pos:1834592..1834594);gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	tRNAscan-SE	tRNA	1834687	1834760	.	+	.	ID=rna36;Parent=gene1755;anticodon=(pos:1834719..1834721);gbkey=tRNA;product=tRNA-Cys
+NC_012125.1	tRNAscan-SE	tRNA	1834772	1834858	.	+	.	ID=rna37;Parent=gene1756;anticodon=(pos:1834806..1834808);gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	tRNAscan-SE	tRNA	2025734	2025818	.	-	.	ID=rna38;Parent=gene1951;anticodon=(pos:complement(2025782..2025784));gbkey=tRNA;product=tRNA-Tyr
+NC_012125.1	tRNAscan-SE	tRNA	2026036	2026120	.	-	.	ID=rna39;Parent=gene1952;anticodon=(pos:complement(2026084..2026086));gbkey=tRNA;product=tRNA-Tyr
+NC_012125.1	tRNAscan-SE	tRNA	2364388	2364464	.	+	.	ID=rna40;Parent=gene2282;anticodon=(pos:2364422..2364424);gbkey=tRNA;product=tRNA-Val
+NC_012125.1	tRNAscan-SE	tRNA	2364475	2364551	.	+	.	ID=rna41;Parent=gene2283;anticodon=(pos:2364509..2364511);gbkey=tRNA;product=tRNA-Val
+NC_012125.1	tRNAscan-SE	tRNA	2528622	2528698	.	-	.	ID=rna42;Parent=gene2453;anticodon=(pos:complement(2528662..2528664));gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	2541062	2541138	.	-	.	ID=rna43;Parent=gene2470;anticodon=(pos:complement(2541102..2541104));gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	2650820	2650907	.	+	.	ID=rna44;Parent=gene2590;anticodon=(pos:2650854..2650856);gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	tRNAscan-SE	tRNA	2699857	2699944	.	-	.	ID=rna45;Parent=gene2640;anticodon=(pos:complement(2699908..2699910));gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	tRNAscan-SE	tRNA	2799062	2799137	.	-	.	ID=rna48;Parent=gene2748;anticodon=(pos:complement(2799101..2799103));gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	tRNAscan-SE	tRNA	2904998	2905074	.	-	.	ID=rna50;Parent=gene2839;anticodon=(pos:complement(2905038..2905040));gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	2905137	2905213	.	-	.	ID=rna51;Parent=gene2840;anticodon=(pos:complement(2905177..2905179));gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	2905276	2905352	.	-	.	ID=rna52;Parent=gene2841;anticodon=(pos:complement(2905316..2905318));gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	2905356	2905448	.	-	.	ID=rna53;Parent=gene2842;anticodon=(pos:complement(2905412..2905414));gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	tRNAscan-SE	tRNA	3080328	3080404	.	+	.	ID=rna54;Parent=gene3015;anticodon=(pos:3080362..3080364);gbkey=tRNA;product=tRNA-Met
+NC_012125.1	tRNAscan-SE	tRNA	3080434	3080510	.	+	.	ID=rna55;Parent=gene3016;anticodon=(pos:3080468..3080470);gbkey=tRNA;product=tRNA-Met
+NC_012125.1	tRNAscan-SE	tRNA	3135145	3135218	.	-	.	ID=rna56;Parent=gene3065;anticodon=(pos:complement(3135184..3135186));gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	tRNAscan-SE	tRNA	3213850	3213925	.	+	.	ID=rna57;Parent=gene3146;anticodon=(pos:3213883..3213885);gbkey=tRNA;product=tRNA-Phe
+NC_012125.1	tRNAscan-SE	tRNA	3319287	3319362	.	+	.	ID=rna58;Parent=gene3248;anticodon=(pos:3319320..3319322);gbkey=tRNA;product=tRNA-Met
+NC_012125.1	tRNAscan-SE	tRNA	3392844	3392920	.	-	.	ID=rna59;Parent=gene3318;anticodon=(pos:complement(3392884..3392886));gbkey=tRNA;product=tRNA-Met
+NC_012125.1	tRNAscan-SE	tRNA	3394805	3394891	.	-	.	ID=rna60;Parent=gene3320;anticodon=(pos:complement(3394855..3394857));gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	tRNAscan-SE	tRNA	3499668	3499743	.	-	.	ID=rna62;Parent=gene3425;anticodon=(pos:complement(3499708..3499710));gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	tRNAscan-SE	tRNA	3503055	3503130	.	-	.	ID=rna65;Parent=gene3428;anticodon=(pos:complement(3503095..3503097));gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	tRNAscan-SE	tRNA	3503240	3503316	.	-	.	ID=rna66;Parent=gene3429;anticodon=(pos:complement(3503280..3503282));gbkey=tRNA;product=tRNA-Ile
+NC_012125.1	tRNAscan-SE	tRNA	3757595	3757671	.	-	.	ID=rna68;Parent=gene3671;anticodon=(pos:complement(3757635..3757637));gbkey=tRNA;product=tRNA-Pro
+NC_012125.1	tRNAscan-SE	tRNA	3885729	3885823	.	+	.	ID=rna69;Parent=gene3788;anticodon=(pos:3885763..3885765);gbkey=tRNA;product=tRNA-Sec
+NC_012125.1	tRNAscan-SE	tRNA	4033576	4033651	.	+	.	ID=rna71;Parent=gene3927;anticodon=(pos:4033610..4033612);gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	tRNAscan-SE	tRNA	4040515	4040590	.	+	.	ID=rna74;Parent=gene3934;anticodon=(pos:4040548..4040550);gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	tRNAscan-SE	tRNA	4040599	4040683	.	+	.	ID=rna75;Parent=gene3935;anticodon=(pos:4040633..4040635);gbkey=tRNA;product=tRNA-Tyr
+NC_012125.1	tRNAscan-SE	tRNA	4040800	4040874	.	+	.	ID=rna76;Parent=gene3936;anticodon=(pos:4040833..4040835);gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	tRNAscan-SE	tRNA	4040881	4040956	.	+	.	ID=rna77;Parent=gene3937;anticodon=(pos:4040914..4040916);gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	tRNAscan-SE	tRNA	4076335	4076410	.	+	.	ID=rna79;Parent=gene3968;anticodon=(pos:4076369..4076371);gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	tRNAscan-SE	tRNA	4079774	4079850	.	+	.	ID=rna82;Parent=gene3971;anticodon=(pos:4079808..4079810);gbkey=tRNA;product=tRNA-Asp
+NC_012125.1	tRNAscan-SE	tRNA	4079859	4079934	.	+	.	ID=rna83;Parent=gene3972;anticodon=(pos:4079892..4079894);gbkey=tRNA;product=tRNA-Trp
+NC_012125.1	tRNAscan-SE	tRNA	4116065	4116141	.	+	.	ID=rna84;Parent=gene4007;anticodon=(pos:4116099..4116101);gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	tRNAscan-SE	tRNA	4116196	4116271	.	+	.	ID=rna85;Parent=gene4008;anticodon=(pos:4116229..4116231);gbkey=tRNA;product=tRNA-His
+NC_012125.1	tRNAscan-SE	tRNA	4116292	4116378	.	+	.	ID=rna86;Parent=gene4009;anticodon=(pos:4116326..4116328);gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	tRNAscan-SE	tRNA	4116421	4116497	.	+	.	ID=rna87;Parent=gene4010;anticodon=(pos:4116455..4116457);gbkey=tRNA;product=tRNA-Pro
+NC_012125.1	tRNAscan-SE	tRNA	4171279	4171354	.	+	.	ID=rna89;Parent=gene4061;anticodon=(pos:4171313..4171315);gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	tRNAscan-SE	tRNA	4326461	4326537	.	+	.	ID=rna93;Parent=gene4205;anticodon=(pos:4326495..4326497);gbkey=tRNA;product=tRNA-Ile
+NC_012125.1	tRNAscan-SE	tRNA	4326647	4326722	.	+	.	ID=rna94;Parent=gene4206;anticodon=(pos:4326680..4326682);gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	tRNAscan-SE	tRNA	4578602	4578677	.	-	.	ID=rna97;Parent=gene4439;anticodon=(pos:complement(4578642..4578644));gbkey=tRNA;product=tRNA-Phe
+NC_012125.1	tRNAscan-SE	tRNA	4608441	4608516	.	+	.	ID=rna98;Parent=gene4471;anticodon=(pos:4608474..4608476);gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	tRNAscan-SE	tRNA	4608673	4608748	.	+	.	ID=rna99;Parent=gene4472;anticodon=(pos:4608706..4608708);gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	tRNAscan-SE	tRNA	4608905	4608980	.	+	.	ID=rna100;Parent=gene4473;anticodon=(pos:4608938..4608940);gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	tRNAscan-SE	tRNA	4722301	4722385	.	+	.	ID=rna101;Parent=gene4587;anticodon=(pos:4722335..4722337);gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	tRNAscan-SE	tRNA	4790330	4790416	.	-	.	ID=rna102;Parent=gene4657;anticodon=(pos:complement(4790380..4790382));gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	tRNAscan-SE	tRNA	4790448	4790534	.	-	.	ID=rna103;Parent=gene4658;anticodon=(pos:complement(4790498..4790500));gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	tRNAscan-SE	tRNA	4790562	4790648	.	-	.	ID=rna104;Parent=gene4659;anticodon=(pos:complement(4790612..4790614));gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	CDS	1350907	1351302	.	+	0	ID=cds1257;Name=YP_002636892.1;Parent=gene1311;Note=DLP12 prophage%3B Holliday junction resolvase;Dbxref=InterPro:IPR008822,Genbank:YP_002636892.1;gbkey=CDS;gene=rusA;product=endodeoxyribonuclease RUS;protein_id=YP_002636892.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1876356	1876877	.	+	0	ID=cds1760;Name=YP_002637395.1;Parent=gene1849;Note=endonuclease%3B resolves Holliday structures%3B forms a complex of RuvABC%3B the junction binding protein RuvA forms a hexameric ring along with the RuvB helicase and catalyzes branch migration%3B RuvC then interacts with RuvAB to resolve the Holliday junction by nicking DNA strands of like polarity;Dbxref=InterPro:IPR002176,InterPro:IPR012337,Genbank:YP_002637395.1;gbkey=CDS;gene=ruvC;product=Holliday junction resolvase;protein_id=YP_002637395.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2843670	2843879	.	+	0	ID=cds2707;Name=YP_002638342.1;Parent=gene2849;Dbxref=InterPro:IPR002514,Genbank:YP_002638342.1;gbkey=CDS;product=Transposase insN for insertion sequence element IS;protein_id=YP_002638342.1;transl_table=11
+NC_012125.1	RefSeq	CDS	3776495	3776686	.	-	0	ID=cds3614;Name=YP_002639252.1;Parent=gene3794;Dbxref=InterPro:IPR001584,InterPro:IPR012337,Genbank:YP_002639252.1;gbkey=CDS;gene=insK;product=transposase insK for insertion sequence e;protein_id=YP_002639252.1;transl_table=11
+NC_012125.1	RefSeq	CDS	4491887	4492195	.	+	0	ID=cds4241;Name=YP_002639879.1;Parent=gene4467;Dbxref=Genbank:YP_002639879.1;gbkey=CDS;product=Transposase insF for insertion sequence IS3A%2FB%2FC%2FD;protein_id=YP_002639879.1;transl_table=11
+NC_012125.1	RefSeq	region	1062998	1077544	.	+	.	ID=id25;gbkey=mobile_element;gene=xis
+NC_012125.1	RefSeq	region	2762605	2776168	.	+	.	ID=id55;gbkey=mobile_element
+NC_012125.1	RefSeq	CDS	608510	608635	.	-	0	ID=cds553;Name=YP_002636188.1;Parent=gene574;Dbxref=Genbank:YP_002636188.1;gbkey=CDS;product=Transposase within prophage;protein_id=YP_002636188.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1067502	1067852	.	-	0	ID=cds984;Name=YP_002636619.1;Parent=gene1029;Dbxref=Genbank:YP_002636619.1;gbkey=CDS;product=Gifsy-1 prophage protein;protein_id=YP_002636619.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1071134	1071283	.	+	0	ID=cds989;Name=YP_002636624.1;Parent=gene1034;Dbxref=Genbank:YP_002636624.1;gbkey=CDS;product=Gifsy-1 prophage cI protein;protein_id=YP_002636624.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1071375	1072202	.	+	0	ID=cds990;Name=YP_002636625.1;Parent=gene1035;Dbxref=InterPro:IPR006497,Genbank:YP_002636625.1;gbkey=CDS;product=replication protein O of prophage CP-933X;protein_id=YP_002636625.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1072289	1072894	.	+	0	ID=cds991;Name=YP_002636626.1;Parent=gene1036;Dbxref=InterPro:IPR009731,Genbank:YP_002636626.1;gbkey=CDS;product=replication protein of prophage CP-933X;protein_id=YP_002636626.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1076414	1077211	.	+	0	ID=cds999;Name=YP_002636634.1;Parent=gene1044;Dbxref=InterPro:IPR001878,InterPro:IPR003222,Genbank:YP_002636634.1;gbkey=CDS;product=prophage antitermination protein;protein_id=YP_002636634.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1102352	1103782	.	+	0	ID=cds1034;Name=YP_002636669.1;Parent=gene1079;Dbxref=Genbank:YP_002636669.1;gbkey=CDS;gene=pin;product=Fels-2 prophage Pin;protein_id=YP_002636669.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1350907	1351302	.	+	0	ID=cds1257;Name=YP_002636892.1;Parent=gene1311;Note=DLP12 prophage%3B Holliday junction resolvase;Dbxref=InterPro:IPR008822,Genbank:YP_002636892.1;gbkey=CDS;gene=rusA;product=endodeoxyribonuclease RUS;protein_id=YP_002636892.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1904591	1904773	.	+	0	ID=cds1790;Name=YP_002637425.1;Parent=gene1880;Dbxref=Genbank:YP_002637425.1;gbkey=CDS;gene=vtaP;product=Gifsy-1 prophage VtaP;protein_id=YP_002637425.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1909733	1910179	.	-	0	ID=cds1796;Name=YP_002637431.1;Parent=gene1886;Dbxref=InterPro:IPR004590,Genbank:YP_002637431.1;gbkey=CDS;product=Rac prophage%3B recombination and repair protein;protein_id=YP_002637431.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2131197	2131337	.	-	0	ID=cds2018;Name=YP_002637653.1;Parent=gene2116;Dbxref=InterPro:IPR011010,InterPro:IPR013762,Genbank:YP_002637653.1;gbkey=CDS;gene=intR;product=lambdoid prophage Rac integrase;protein_id=YP_002637653.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2736352	2738559	.	-	0	ID=cds2607;Name=YP_002638242.1;Parent=gene2741;Dbxref=InterPro:IPR005003,InterPro:IPR005068,InterPro:IPR008969,InterPro:IPR011083,InterPro:IPR013609,Genbank:YP_002638242.1;gbkey=CDS;product=Gifsy-2 prophage tail fiber protein;protein_id=YP_002638242.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2742315	2742857	.	-	0	ID=cds2609;Name=YP_002638244.1;Parent=gene2744;Dbxref=InterPro:IPR010654,Genbank:YP_002638244.1;gbkey=CDS;product=Gifsy-2 prophage tail assembly protein;protein_id=YP_002638244.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2742917	2743528	.	-	0	ID=cds2610;Name=YP_002638245.1;Parent=gene2745;Dbxref=InterPro:IPR000064,Genbank:YP_002638245.1;gbkey=CDS;product=Gifsy-2 prophage tail assembly protein;protein_id=YP_002638245.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2744677	2744982	.	+	0	ID=cds2612;Name=YP_002638247.1;Parent=gene2747;Dbxref=InterPro:IPR001424,Genbank:YP_002638247.1;gbkey=CDS;gene=sodC;product=Gifsy-2 prophage superoxide dismutase;protein_id=YP_002638247.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2749091	2749354	.	-	0	ID=cds2616;Name=YP_002638251.1;Parent=gene2751;Dbxref=InterPro:IPR009350,Genbank:YP_002638251.1;gbkey=CDS;product=Gifsy-2 prophage minor tail protein;protein_id=YP_002638251.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2751567	2751833	.	-	0	ID=cds2621;Name=YP_002638256.1;Parent=gene2756;Dbxref=Genbank:YP_002638256.1;gbkey=CDS;product=Gifsy-2 prophage ATP-binding sugar transporter-like protein;protein_id=YP_002638256.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2754278	2755825	.	-	0	ID=cds2624;Name=YP_002638259.1;Parent=gene2759;Dbxref=InterPro:IPR006429,Genbank:YP_002638259.1;gbkey=CDS;product=Gifsy-2 prophage protein;protein_id=YP_002638259.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2758120	2758716	.	-	0	ID=cds2627;Name=YP_002638262.1;Parent=gene2762;Dbxref=InterPro:IPR009901,Genbank:YP_002638262.1;gbkey=CDS;product=Gifsy-2 prophage protein;protein_id=YP_002638262.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2758954	2759361	.	-	0	ID=cds2628;Name=YP_002638263.1;Parent=gene2763;Dbxref=InterPro:IPR004929,Genbank:YP_002638263.1;gbkey=CDS;product=Gifsy-2 prophage protein;protein_id=YP_002638263.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2761206	2761847	.	-	0	ID=cds2632;Name=YP_002638267.1;Parent=gene2767;Dbxref=InterPro:IPR010455,Genbank:YP_002638267.1;gbkey=CDS;gene=regQ;product=Gifsy-1 prophage RegQ;protein_id=YP_002638267.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2769573	2769923	.	+	0	ID=cds2647;Name=YP_002638282.1;Parent=gene2782;Dbxref=Genbank:YP_002638282.1;gbkey=CDS;product=Gifsy-1 prophage protein;protein_id=YP_002638282.1;transl_table=11
+NC_012125.1	RefSeq	CDS	4683275	4683517	.	+	0	ID=cds4434;Name=YP_002640072.1;Parent=gene4671;Note=Qin prophage%3B bifunctional antitoxin of the RelE-RelB toxin-antitoxin system%2Ftranscriptional repressor;Dbxref=InterPro:IPR007337,InterPro:IPR010985,Genbank:YP_002640072.1;gbkey=CDS;gene=relB;product=bifunctional antitoxin%2Ftranscriptional repressor RelB;protein_id=YP_002640072.1;transl_table=11
+NC_012125.1	RefSeq	CDS	537766	538371	.	+	0	ID=cds486;Name=YP_002636121.1;Parent=gene505;Note=involved in a recombinational process of DNA repair%2C independent of the recBC complex;Dbxref=InterPro:IPR000093,InterPro:IPR006154,InterPro:IPR006171,Genbank:YP_002636121.1;gbkey=CDS;gene=recR;product=recombination protein RecR;protein_id=YP_002636121.1;transl_table=11
+NC_012125.1	RefSeq	CDS	3977044	3978117	.	-	0	ID=cds3796;Name=YP_002639434.1;Parent=gene3984;Note=Required for DNA replication%3B binds preferentially to single-stranded%2C linear DNA;Dbxref=InterPro:IPR001238,InterPro:IPR003395,Genbank:YP_002639434.1;gbkey=CDS;gene=recF;product=recombination protein F;protein_id=YP_002639434.1;transl_table=11
+NC_012125.1	RefSeq	CDS	4149357	4150787	.	+	0	ID=cds3945;Name=YP_002639583.1;Parent=gene4156;Note=YigN%3B nuclease that may cleave DNA structures arising during the recombination of short-inverted repeats and thereby prevents the inversion of the internal sequence%3B transcription is induced by DNA-damaging agents such as nalidixic acid or mitomycin C in a LexA-dependent manner;Dbxref=InterPro:IPR003798,Genbank:YP_002639583.1;gbkey=CDS;gene=yigN;product=DNA recombination protein RmuC;protein_id=YP_002639583.1;transl_table=11
+NC_012125.1	RefSeq	CDS	708463	709458	.	-	0	ID=cds654;Name=YP_002636289.1;Parent=gene677;Dbxref=InterPro:IPR006597,InterPro:IPR011990,Genbank:YP_002636289.1;gbkey=CDS;gene=ybeQ;product=TPR repeat protein;protein_id=YP_002636289.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1105022	1106488	.	-	0	ID=cds1037;Name=YP_002636672.1;Parent=gene1082;Dbxref=InterPro:IPR001611,Genbank:YP_002636672.1;gbkey=CDS;gene=gogB;product=leucine-rich repeat protein;protein_id=YP_002636672.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1779918	1782086	.	+	0	ID=cds1659;Name=YP_002637294.1;Parent=gene1736;Dbxref=InterPro:IPR006597,InterPro:IPR011652,InterPro:IPR011990,Genbank:YP_002637294.1;gbkey=CDS;product=TPR repeat protein;protein_id=YP_002637294.1;transl_table=11
+NC_012125.1	RefSeq	rRNA	285489	287030	.	+	.	ID=rna0;Parent=gene264;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	287542	290449	.	+	.	ID=rna3;Parent=gene267;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	290541	290660	.	+	.	ID=rna4;Parent=gene268;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	2795752	2795871	.	-	.	ID=rna45;Parent=gene2810;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	2795963	2798870	.	-	.	ID=rna46;Parent=gene2811;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	2799223	2800764	.	-	.	ID=rna48;Parent=gene2813;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	3499511	3499630	.	-	.	ID=rna60;Parent=gene3521;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	3499756	3499875	.	-	.	ID=rna62;Parent=gene3523;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	3499967	3502874	.	-	.	ID=rna63;Parent=gene3524;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	3503386	3504927	.	-	.	ID=rna66;Parent=gene3527;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4031949	4033490	.	+	.	ID=rna69;Parent=gene4035;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4033843	4036750	.	+	.	ID=rna71;Parent=gene4037;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4036842	4036961	.	+	.	ID=rna72;Parent=gene4038;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4074710	4076249	.	+	.	ID=rna77;Parent=gene4078;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4076602	4079510	.	+	.	ID=rna79;Parent=gene4080;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4079602	4079721	.	+	.	ID=rna80;Parent=gene4081;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4169652	4171193	.	+	.	ID=rna87;Parent=gene4174;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4171546	4174453	.	+	.	ID=rna89;Parent=gene4176;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4174545	4174664	.	+	.	ID=rna90;Parent=gene4177;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4324849	4326391	.	+	.	ID=rna91;Parent=gene4323;gbkey=rRNA;product=16S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4326903	4329810	.	+	.	ID=rna94;Parent=gene4326;gbkey=rRNA;product=23S ribosomal RNA
+NC_012125.1	RefSeq	rRNA	4329902	4330021	.	+	.	ID=rna95;Parent=gene4327;gbkey=rRNA;product=5S ribosomal RNA
+NC_012125.1	RefSeq	CDS	484559	484693	.	-	0	ID=cds437;Name=YP_002636072.1;Parent=gene454;Dbxref=Genbank:YP_002636072.1;gbkey=CDS;product=transposase;protein_id=YP_002636072.1;transl_table=11
+NC_012125.1	RefSeq	CDS	613348	613470	.	-	0	ID=cds559;Name=YP_002636194.1;Parent=gene580;Dbxref=Genbank:YP_002636194.1;gbkey=CDS;product=transposase;protein_id=YP_002636194.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1214759	1215103	.	+	0	ID=cds1120;Name=YP_002636755.1;Parent=gene1165;Dbxref=InterPro:IPR001584,InterPro:IPR012337,Genbank:YP_002636755.1;gbkey=CDS;product=transposase;protein_id=YP_002636755.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1919103	1919435	.	+	0	ID=cds1809;Name=YP_002637444.1;Parent=gene1899;Dbxref=InterPro:IPR001207,Genbank:YP_002637444.1;gbkey=CDS;product=transposase;protein_id=YP_002637444.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1919440	1919955	.	+	0	ID=cds1810;Name=YP_002637445.1;Parent=gene1900;Dbxref=InterPro:IPR001207,Genbank:YP_002637445.1;gbkey=CDS;product=transposase;protein_id=YP_002637445.1;transl_table=11
+NC_012125.1	RefSeq	CDS	1919955	1920101	.	+	0	ID=cds1811;Name=YP_002637446.1;Parent=gene1901;Dbxref=InterPro:IPR001207,Genbank:YP_002637446.1;gbkey=CDS;gene=tnp;product=transposase;protein_id=YP_002637446.1;transl_table=11
+NC_012125.1	RefSeq	CDS	2983567	2983704	.	-	0	ID=cds2848;Name=YP_002638483.1;Parent=gene2998;Dbxref=Genbank:YP_002638483.1;gbkey=CDS;gene=tnpA;product=transposase;protein_id=YP_002638483.1;transl_table=11
+NC_012125.1	RefSeq	CDS	3015010	3015558	.	-	0	ID=cds2884;Name=YP_002638519.1;Parent=gene3035;Dbxref=InterPro:IPR013382,Genbank:YP_002638519.1;gbkey=CDS;gene=tnpA;product=transposase;protein_id=YP_002638519.1;transl_table=11
+NC_012125.1	RefSeq	CDS	3776495	3776686	.	-	0	ID=cds3614;Name=YP_002639252.1;Parent=gene3794;Dbxref=InterPro:IPR001584,InterPro:IPR012337,Genbank:YP_002639252.1;gbkey=CDS;gene=insK;product=transposase insK for insertion sequence e;protein_id=YP_002639252.1;transl_table=11
+NC_012125.1	RefSeq	CDS	3886579	3886737	.	+	0	ID=cds3709;Name=YP_002639347.1;Parent=gene3894;Dbxref=Genbank:YP_002639347.1;gbkey=CDS;gene=tnpA;product=transposase;protein_id=YP_002639347.1;transl_table=11
+NC_012125.1	RefSeq	CDS	4494004	4494183	.	-	0	ID=cds4244;Name=YP_002639882.1;Parent=gene4470;Dbxref=Genbank:YP_002639882.1;gbkey=CDS;gene=tnpA;product=transposase;protein_id=YP_002639882.1;transl_table=11
+NC_012125.1	RefSeq	tRNA	287100	287176	.	+	.	ID=rna1;Parent=gene265;gbkey=tRNA;product=tRNA-Ile
+NC_012125.1	RefSeq	tRNA	287286	287361	.	+	.	ID=rna2;Parent=gene266;gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	RefSeq	tRNA	290850	290926	.	+	.	ID=rna5;Parent=gene269;gbkey=tRNA;product=tRNA-Asp
+NC_012125.1	RefSeq	tRNA	300290	300366	.	+	.	ID=rna6;Parent=gene280;gbkey=tRNA;product=tRNA-Asp
+NC_012125.1	RefSeq	tRNA	363271	363346	.	+	.	ID=rna7;Parent=gene340;gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	RefSeq	tRNA	608095	608171	.	+	.	ID=rna8;Parent=gene573;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	728739	728813	.	-	.	ID=rna9;Parent=gene695;gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	RefSeq	tRNA	728857	728931	.	-	.	ID=rna10;Parent=gene696;gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	RefSeq	tRNA	728978	729054	.	-	.	ID=rna11;Parent=gene697;gbkey=tRNA;product=tRNA-Met
+NC_012125.1	RefSeq	tRNA	729070	729144	.	-	.	ID=rna12;Parent=gene698;gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	RefSeq	tRNA	729180	729254	.	-	.	ID=rna13;Parent=gene699;gbkey=tRNA;product=tRNA-Gln
+NC_012125.1	RefSeq	tRNA	729278	729362	.	-	.	ID=rna14;Parent=gene700;gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	tRNA	729371	729447	.	-	.	ID=rna15;Parent=gene701;gbkey=tRNA;product=tRNA-Met
+NC_012125.1	RefSeq	tRNA	796638	796713	.	+	.	ID=rna16;Parent=gene765;gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	RefSeq	tRNA	796853	796928	.	+	.	ID=rna17;Parent=gene766;gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	RefSeq	tRNA	797063	797138	.	+	.	ID=rna18;Parent=gene767;gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	RefSeq	tRNA	989294	989381	.	-	.	ID=rna19;Parent=gene966;gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	RefSeq	tRNA	1307007	1307082	.	-	.	ID=rna20;Parent=gene1259;gbkey=tRNA;product=tRNA-Lys
+NC_012125.1	RefSeq	tRNA	1307087	1307162	.	-	.	ID=rna21;Parent=gene1260;gbkey=tRNA;product=tRNA-Val
+NC_012125.1	RefSeq	tRNA	1307204	1307279	.	-	.	ID=rna22;Parent=gene1261;gbkey=tRNA;product=tRNA-Val
+NC_012125.1	RefSeq	tRNA	1307325	1307400	.	-	.	ID=rna23;Parent=gene1262;gbkey=tRNA;product=tRNA-Val
+NC_012125.1	RefSeq	tRNA	1310106	1310181	.	+	.	ID=rna24;Parent=gene1266;gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	RefSeq	tRNA	1310224	1310299	.	+	.	ID=rna25;Parent=gene1267;gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	RefSeq	tRNA	1352240	1352314	.	+	.	ID=rna26;Parent=gene1315;gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	RefSeq	tRNA	1352320	1352395	.	+	.	ID=rna27;Parent=gene1316;gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	RefSeq	tRNA	1374316	1374390	.	-	.	ID=rna28;Parent=gene1337;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	1539872	1539948	.	-	.	ID=rna29;Parent=gene1498;gbkey=tRNA;product=tRNA-Pro
+NC_012125.1	RefSeq	tRNA	1775855	1775930	.	-	.	ID=rna30;Parent=gene1729;gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	RefSeq	tRNA	1777688	1777763	.	+	.	ID=rna31;Parent=gene1731;gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	RefSeq	tRNA	1787631	1787706	.	-	.	ID=rna32;Parent=gene1744;gbkey=tRNA;product=tRNA-Asn
+NC_012125.1	RefSeq	tRNA	1788693	1788782	.	+	.	ID=rna33;Parent=gene1746;gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	RefSeq	tRNA	1834559	1834634	.	+	.	ID=rna34;Parent=gene1801;gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	RefSeq	tRNA	1834687	1834760	.	+	.	ID=rna35;Parent=gene1802;gbkey=tRNA;product=tRNA-Cys
+NC_012125.1	RefSeq	tRNA	1834772	1834858	.	+	.	ID=rna36;Parent=gene1803;gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	tRNA	2025734	2025818	.	-	.	ID=rna37;Parent=gene2007;gbkey=tRNA;product=tRNA-Tyr
+NC_012125.1	RefSeq	tRNA	2026036	2026120	.	-	.	ID=rna38;Parent=gene2008;gbkey=tRNA;product=tRNA-Tyr
+NC_012125.1	RefSeq	tRNA	2364388	2364464	.	+	.	ID=rna39;Parent=gene2342;gbkey=tRNA;product=tRNA-Val
+NC_012125.1	RefSeq	tRNA	2364475	2364551	.	+	.	ID=rna40;Parent=gene2343;gbkey=tRNA;product=tRNA-Val
+NC_012125.1	RefSeq	tRNA	2528622	2528698	.	-	.	ID=rna41;Parent=gene2518;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	2541062	2541138	.	-	.	ID=rna42;Parent=gene2535;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	2650820	2650907	.	+	.	ID=rna43;Parent=gene2655;gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	RefSeq	tRNA	2699857	2699944	.	-	.	ID=rna44;Parent=gene2704;gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	RefSeq	tRNA	2799062	2799137	.	-	.	ID=rna47;Parent=gene2812;gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	RefSeq	tRNA	2904998	2905074	.	-	.	ID=rna49;Parent=gene2912;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	2905137	2905213	.	-	.	ID=rna50;Parent=gene2913;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	2905276	2905352	.	-	.	ID=rna51;Parent=gene2914;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	2905356	2905448	.	-	.	ID=rna52;Parent=gene2915;gbkey=tRNA;product=tRNA-Ser
+NC_012125.1	RefSeq	tRNA	3080328	3080404	.	+	.	ID=rna53;Parent=gene3096;gbkey=tRNA;product=tRNA-Met
+NC_012125.1	RefSeq	tRNA	3080434	3080510	.	+	.	ID=rna54;Parent=gene3097;gbkey=tRNA;product=tRNA-Met
+NC_012125.1	RefSeq	tRNA	3135145	3135218	.	-	.	ID=rna55;Parent=gene3147;gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	RefSeq	tRNA	3213850	3213925	.	+	.	ID=rna56;Parent=gene3234;gbkey=tRNA;product=tRNA-Phe
+NC_012125.1	RefSeq	tRNA	3319287	3319362	.	+	.	ID=rna57;Parent=gene3340;gbkey=tRNA;product=tRNA-Met
+NC_012125.1	RefSeq	tRNA	3392844	3392920	.	-	.	ID=rna58;Parent=gene3412;gbkey=tRNA;product=tRNA-Met
+NC_012125.1	RefSeq	tRNA	3394805	3394891	.	-	.	ID=rna59;Parent=gene3414;gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	tRNA	3499668	3499743	.	-	.	ID=rna61;Parent=gene3522;gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	RefSeq	tRNA	3503055	3503130	.	-	.	ID=rna64;Parent=gene3525;gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	RefSeq	tRNA	3503240	3503316	.	-	.	ID=rna65;Parent=gene3526;gbkey=tRNA;product=tRNA-Ile
+NC_012125.1	RefSeq	tRNA	3757595	3757671	.	-	.	ID=rna67;Parent=gene3773;gbkey=tRNA;product=tRNA-Pro
+NC_012125.1	RefSeq	tRNA	3885729	3885819	.	+	.	ID=rna68;Parent=gene3893;gbkey=tRNA;product=tRNA-Sec
+NC_012125.1	RefSeq	tRNA	4033576	4033651	.	+	.	ID=rna70;Parent=gene4036;gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	RefSeq	tRNA	4040515	4040590	.	+	.	ID=rna73;Parent=gene4043;gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	RefSeq	tRNA	4040599	4040683	.	+	.	ID=rna74;Parent=gene4044;gbkey=tRNA;product=tRNA-Tyr
+NC_012125.1	RefSeq	tRNA	4040800	4040874	.	+	.	ID=rna75;Parent=gene4045;gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	RefSeq	tRNA	4040881	4040956	.	+	.	ID=rna76;Parent=gene4046;gbkey=tRNA;product=tRNA-Thr
+NC_012125.1	RefSeq	tRNA	4076335	4076410	.	+	.	ID=rna78;Parent=gene4079;gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	RefSeq	tRNA	4079774	4079850	.	+	.	ID=rna81;Parent=gene4082;gbkey=tRNA;product=tRNA-Asp
+NC_012125.1	RefSeq	tRNA	4079859	4079934	.	+	.	ID=rna82;Parent=gene4083;gbkey=tRNA;product=tRNA-Trp
+NC_012125.1	RefSeq	tRNA	4116065	4116141	.	+	.	ID=rna83;Parent=gene4120;gbkey=tRNA;product=tRNA-Arg
+NC_012125.1	RefSeq	tRNA	4116196	4116271	.	+	.	ID=rna84;Parent=gene4121;gbkey=tRNA;product=tRNA-His
+NC_012125.1	RefSeq	tRNA	4116292	4116378	.	+	.	ID=rna85;Parent=gene4122;gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	tRNA	4116421	4116497	.	+	.	ID=rna86;Parent=gene4123;gbkey=tRNA;product=tRNA-Pro
+NC_012125.1	RefSeq	tRNA	4171279	4171354	.	+	.	ID=rna88;Parent=gene4175;gbkey=tRNA;product=tRNA-Glu
+NC_012125.1	RefSeq	tRNA	4326461	4326537	.	+	.	ID=rna92;Parent=gene4324;gbkey=tRNA;product=tRNA-Ile
+NC_012125.1	RefSeq	tRNA	4326647	4326722	.	+	.	ID=rna93;Parent=gene4325;gbkey=tRNA;product=tRNA-Ala
+NC_012125.1	RefSeq	tRNA	4578602	4578677	.	-	.	ID=rna96;Parent=gene4558;gbkey=tRNA;product=tRNA-Phe
+NC_012125.1	RefSeq	tRNA	4608441	4608516	.	+	.	ID=rna97;Parent=gene4589;gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	RefSeq	tRNA	4608673	4608748	.	+	.	ID=rna98;Parent=gene4590;gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	RefSeq	tRNA	4608905	4608980	.	+	.	ID=rna99;Parent=gene4591;gbkey=tRNA;product=tRNA-Gly
+NC_012125.1	RefSeq	tRNA	4722301	4722385	.	+	.	ID=rna100;Parent=gene4709;gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	tRNA	4790330	4790416	.	-	.	ID=rna101;Parent=gene4783;gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	tRNA	4790448	4790534	.	-	.	ID=rna102;Parent=gene4784;gbkey=tRNA;product=tRNA-Leu
+NC_012125.1	RefSeq	tRNA	4790562	4790648	.	-	.	ID=rna103;Parent=gene4785;gbkey=tRNA;product=tRNA-Leu

@@ -1,0 +1,72 @@
+gene	Locus tag	in cgMLST ?	Length	EC number	KO number	Gene Name	gene_name_figure	Function	N_allele	CDS	Pseudogene	missing	% presence	% pseudogenes	gene_tmp	order
+STMMW_02641_1	STMMW_02641	accessory_gene	1056		K11902	sciA	sciA	type VI secretion protein ImpA	503	2292	133	719	77%	5%	STMMW_02641	1
+STMMW_02651_1	STMMW_02651	accessory_gene	996		K11895	sciB	sciB	type VI secretion protein ImpH	431	2259	14	871	72%	1%	STMMW_02651	2
+STMMW_02661_1	STMMW_02661	accessory_gene	1884		K11896	sciC	sciC	type VI secretion protein	607	2173	72	899	71%	3%	STMMW_02661	3
+STMMW_02671_1	STMMW_02671	accessory_gene	495		K11897	sciD	sciD	type VI secretion system lysozyme-like protein	216	2240	8	896	72%	0%	STMMW_02671	4
+STMMW_02691_1	STMMW_02691	accessory_gene	825		K11898	sciE	sciE	protein of avirulence locus ImpE	411	2236	11	897	71%	0%	STMMW_02691	5
+STMMW_02701_1	STMMW_02701	accessory_gene	903			sciF	sciF	SPI-6 associated protein	374	2180	57	907	71%	3%	STMMW_02701	6
+STMMW_02711_1	STMMW_02711	accessory_gene	2640		K11907	sciG	sciG	ClpV1 family T6SS ATPase	408	1362	24	1758	44%	2%	STMMW_02711	7
+T_RS13160_1	T_RS13160	accessory_gene	291				T_RS13160	hypothetical protein	78	833	26	2285	27%	3%	T_RS13160	8
+STMMW_02731_1	STMMW_02731	accessory_gene	543		K11901	sciH	sciH	type VI secretion system protein ImpB	223	2233	4	907	71%	0%	STMMW_02731	9
+STMMW_02741_1	STMMW_02741	accessory_gene	1494		K11900	sciI	sciI	EvpB family type VI secretion protein	497	2103	120	921	71%	5%	STMMW_02741	10
+STMMW_02771_1	STMMW_02771	accessory_gene	447			sciJ	sciJ	putative exported protein	150	1761	12	1371	56%	1%	STMMW_02771	12
+T_RS13145_1	T_RS13145	accessory_gene	402				T_RS13145	hypothetical protein	21	419	16	2709	14%	4%	T_RS13145	13
+T_RS13140_1	T_RS13140	accessory_gene	426				T_RS13140	putative cytoplasmic protein, partial	62	484	11	2649	16%	2%	T_RS13140	14
+STMMW_02791_1	STMMW_02791	accessory_gene	486		K11903	sciK	sciK	Hcp1 family type VI secretion system effector	229	1848	11	1285	59%	1%	STMMW_02791	15
+STMMW_02811_1	STMMW_02811	accessory_gene	486				STMMW_02811	Effector - Immunity System Tae4 / Tai4	148	1841	24	1279	59%	1%	STMMW_02811	16
+STMMW_02831_1	STMMW_02831	accessory_gene	384				STMMW_02831	putative periplasmic protein	98	1867	5	1272	60%	0%	STMMW_02831	17
+STMMW_02851_1	STMMW_02851	accessory_gene	537		K11906	sciN	sciN	type VI secretion system-associated lipoprotein	242	2139	15	990	69%	1%	STMMW_02851	18
+STMMW_02861_1	STMMW_02861	accessory_gene	1344		K11893	sciO	sciO	type VI secretion system-associated protein	498	2142	13	989	69%	1%	STMMW_02861	19
+STMMW_02871_1	STMMW_02871	accessory_gene	1305		K11892	sciP	sciP	putative type VI system protein	451	2126	19	999	68%	1%	STMMW_02871	20
+STMMW_02881_1	STMMW_02881	pseudogene	774			sciQ	sciQ	Putative inner membrane protein	383	1843	251	1050	67%	12%	STMMW_02881	21
+STMMW_02891_1	STMMW_02891	pseudogene	444			sciR	sciR	SciR Shiga-like toxin A subunit	182	1588	370	1186	62%	19%	STMMW_02891	22
+T_RS13110_1	T_RS13110	accessory_gene	495				T_RS13110	hypothetical protein	15	172	4	2968	6%	2%	T_RS13110	23
+STMMW_02901_1	STMMW_02901	pseudogene	3870		K11891	sciS	sciS	type VI secretion protein IcmF	740	1935	140	1069	66%	7%	STMMW_02901	24
+STMMW_02911_1	STMMW_02911	pseudogene	789		K11890	sciT	sciT	Putative cytoplasmic protein	148	665	132	2347	25%	17%	STMMW_02911	25
+QX44_RS00235_1	QX44_RS00235	pseudogene	471				QX44_RS00235	hypothetical protein	35	375	36	2733	13%	9%	QX44_RS00235	26
+T_RS13095_1	T_RS13095	pseudogene	471				T_RS13095	hypothetical protein	128	873	134	2137	32%	13%	T_RS13095	27
+T_RS13090_1	T_RS13090	accessory_gene	462				T_RS13090	hypothetical protein	131	1097	17	2030	35%	2%	T_RS13090	28
+STMMW_02921_1	STMMW_02921	accessory_gene	417			sciU	sciU	putative periplasmic protein	119	1739	0	1405	55%	0%	STMMW_02921	29
+STMMW_02931_1	STMMW_02931	pseudogene	522			sciV	sciV	SPI-6 associated protein, partial	164	1713	139	1292	59%	8%	STMMW_02931	30
+SESA_RS02090_1	SESA_RS02090	accessory_gene	840				SESA_RS02090	PAAR motif family protein	19	202	1	2941	6%	0%	SESA_RS02090	31
+STMMW_02941_1	STMMW_02941	accessory_gene	2190		K11904	vgrS	vgrS	type VI secretion protein Vgr	308	1200	27	1917	39%	2%	STMMW_02941	33
+STMMW_02951_1	STMMW_02951	accessory_gene	447			sciW	STMMW_02951	Uncharacterized conserved protein	90	1291	24	1829	42%	2%	STMMW_02951	34
+STMMW_02961_1	STMMW_02961	pseudogene	4095			rhs	rhs_STMMW_02961	type IV secretion protein Rhs	77	182	113	2849	9%	38%	STMMW_02961	35
+STMMW_02991_1	STMMW_02991	accessory_gene	447			sciX	sciX	hypothetical protein	18	668	0	2476	21%	0%	STMMW_02991	36
+SED_RS01915_1	SED_RS01915	accessory_gene	438				SED_RS01915	hypothetical protein	6	49	0	3095	2%	0%	SED_RS01915	38
+T_RS13055_1	T_RS13055	accessory_gene	678				T_RS13055	hypothetical protein	12	126	4	3014	4%	3%	T_RS13055	39
+T_RS13040_1	T_RS13040	accessory_gene	261				T_RS13040	hypothetical protein	6	139	1	3004	4%	1%	T_RS13040	40
+T_RS13035_1	T_RS13035	accessory_gene	444				T_RS13035	hypothetical protein	11	161	5	2978	5%	3%	T_RS13035	41
+SPA_RS12540_1	SPA_RS12540	accessory_gene	702				SPA_RS12540	hypothetical protein	24	159	0	2985	5%	0%	SPA_RS12540	42
+SCH_RS01465_1	SCH_RS01465	accessory_gene	459				SCH_RS01465	hypothetical protein	78	778	38	2328	26%	5%	SCH_RS01465	44
+SEN_RS01405_1	SEN_RS01405	accessory_gene	447				rhs_partial	type IV secretion protein Rhs, partial	12	268	1	2875	9%	0%	SEN_RS01405	45
+SEAG_RS01745_1	SEAG_RS01745	accessory_gene	234				SEAG_RS01745	hypothetical protein	22	136	7	3001	5%	5%	SEAG_RS01745	46
+SEHA_RS02110_1	SEHA_RS02110	accessory_gene	4707				rhs_SEHA_RS02110	type IV secretion protein Rhs	38	96	2	3046	3%	2%	SEHA_RS02110	47
+SEHA_RS02115_1	SEHA_RS02115	accessory_gene	435				SEHA_RS02115	hypothetical protein	8	149	0	2995	5%	0%	SEHA_RS02115	48
+SEHA_RS02130_1	SEHA_RS02130	accessory_gene	468				SEHA_RS02130	hypothetical protein	9	97	0	3047	3%	0%	SEHA_RS02130	49
+SAL_EA9932AA_02540_1	SAL_EA9932AA_02540	accessory_gene	444				rhs_SAL_EA9932AA_02540	type IV secretion protein Rhs	16	114	2	3028	4%	2%	SAL_EA9932AA_02540	50
+SPA_RS12515_1	SPA_RS12515	accessory_gene	312				SPA_RS12515	hypothetical protein	5	72	0	3072	2%	0%	SPA_RS12515	51
+SCH_RS01475_1	SCH_RS01475	accessory_gene	309				SCH_RS01475	hypothetical protein	9	132	0	3012	4%	0%	SCH_RS01475	53
+STMMW_03041_1	STMMW_03041	pseudogene	276		K19048	symE	STMMW_03041	hypothetical protein	154	762	693	1689	46%	48%	STMMW_03041	54
+SCH_RS01490_1	SCH_RS01490	pseudogene	468				SCH_RS01490	exported pathogenicity island protein	145	1045	133	1966	37%	11%	SCH_RS01490	55
+STMMW_03051_1	STMMW_03051	pseudogene	309				STMMW_03051	conserved hypothetical pathogenicity island protein	215	317	1734	1093	65%	85%	STMMW_03051	56
+T_RS13015_1	T_RS13015	pseudogene	495				safA_T_RS13015	Saf-pilin pilus formation protein SafA	233	685	52	2407	23%	7%	T_RS13015	58
+SNSL254_RS02590_1	SNSL254_RS02590	pseudogene	498				safA_SNSL254_RS02590	Saf-pilin pilus formation protein SafA	370	860	201	2083	34%	19%	SNSL254_RS02590	59
+STMMW_03091_1	STMMW_03091	accessory_gene	513			safA	safA_STMMW_03091	Saf-pilin pilus formation protein SafA	323	1377	40	1727	45%	3%	STMMW_03091	60
+STMMW_03101_1	STMMW_03101	accessory_gene	714			safB	safB	gram-negative pili assembly chaperone	344	2471	44	629	80%	2%	STMMW_03101	61
+STMMW_03111_1	STMMW_03111	accessory_gene	2511		K07347	safC	safC	salmonella atypical fimbria outer membrane usher (SafC)	794	2457	47	640	80%	2%	STMMW_03111	62
+STMMW_03121_1	STMMW_03121	accessory_gene	471			safD	safD	fimbrial structural subunit	302	2494	34	616	80%	1%	STMMW_03121	63
+STMMW_03131_1	STMMW_03131	accessory_gene	822			ybeJ	STMMW_03131	putative xylanase/chitin deacetylase	337	2446	76	622	80%	3%	STMMW_03131	64
+STMMW_03132_1	STMMW_03132	accessory_gene	216				STMMW_03132	transcription regulator	91	2515	20	609	81%	1%	STMMW_03132	65
+STMMW_03133_1	STMMW_03133	pseudogene	132				STMMW_03133	transposase	86	2246	295	603	81%	12%	STMMW_03133	66
+STMMW_03151_1	STMMW_03151	accessory_gene	948			sinR	sinR	d	388	2461	77	606	81%	3%	STMMW_03151	67
+T_RS12960_1	T_RS12960	accessory_gene	378				T_RS12960	transposase	112	1070	38	2036	35%	3%	T_RS12960	68
+T_RS12955_1	T_RS12955	accessory_gene	711				tcfA	putative fimbrial protein TcfA	132	1063	12	2069	34%	1%	T_RS12955	69
+T_RS12950_1	T_RS12950	accessory_gene	576				tcfB	putative fimbrial subunit TcfB	76	1083	11	2050	35%	1%	T_RS12950	70
+T_RS12945_1	T_RS12945	accessory_gene	2688				tcfC	fimbrial outer membrane usher protein TcfC	340	1028	55	2061	34%	5%	T_RS12945	71
+T_RS12940_1	T_RS12940	accessory_gene	1080				tcfD	putative fimbrial protein TcfD	205	1101	6	2037	35%	1%	T_RS12940	72
+T_RS12935_1	T_RS12935	accessory_gene	456		K05800	ybaO	tinR	transcriptional regulator	113	1104	54	1986	37%	5%	T_RS12935	73
+T_RS12930_1	T_RS12930	accessory_gene	618				tioA	TioA protein	138	1134	44	1966	37%	4%	T_RS12930	74
+STMMW_03171_1	STMMW_03171	cgMLST	720			pagN	STMMW_03171	outer membrane adhesin	424	3127	9	8	100%	0%	STMMW_03171	75
+SCH_RS03095_1	SCH_RS03095	accessory_gene	1209				SCH_RS03095	transposase	9	67	1	3076	2%	1%	SCH_RS03095	76
+STMMW_03181_1	STMMW_03181	cgMLST	408			sciZ	STMMW_03181	VirG	212	3129	15	0	100%	0%	STMMW_03181	77

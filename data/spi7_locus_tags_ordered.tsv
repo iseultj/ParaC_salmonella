@@ -1,0 +1,116 @@
+gene	Locus tag	in cgMLST ?	Length	EC number	KO number	Gene Name	label	gene_name_figure	Function	N_allele	CDS	Pseudogene	missing	% presence	% pseudogenes	ID	order_spi
+STY4521_1	STY4521	accessory_gene	1035		K12055	parA	parA	parA	chromosome partitioning ATPase	16	130	1	3013	4%	1%	STY4521	1
+T_RS21520_1	T_RS21520	accessory_gene	1800				T_RS21520	ATP synthase	ATP synthase	80	289	4	2851	9%	1%	T_RS21520	2
+T_RS21530_1	T_RS21530	accessory_gene	261				T_RS21530	hypothetical protein	hypothetical protein	47	294	0	2850	9%	0%	T_RS21530	3
+T_RS21535_1	T_RS21535	accessory_gene	723				T_RS21535	Protein of uncharacterised function (DUF2786)	Protein of uncharacterised function (DUF2786)	68	283	10	2851	9%	3%	T_RS21535	4
+T_RS21540_1	T_RS21540	accessory_gene	558				T_RS21540	Protein of uncharacterised function (DUF2857)	Protein of uncharacterised function (DUF2857)	21	152	3	2989	5%	2%	T_RS21540	5
+T_RS21545_1	T_RS21545	accessory_gene	249				T_RS21545	Protein of uncharacterised function (DUF2857)	Protein of uncharacterised function (DUF2857)	42	291	1	2852	9%	0%	T_RS21545	6
+STY4528_1	STY4528	accessory_gene	1344				STY4528	DNA-binding protein	DNA-binding protein	24	150	1	2993	5%	1%	STY4528	7
+STY4529_1	STY4529	accessory_gene	780				STY4529	integrating conjugative element protein%2C PFL_4669 family	integrating conjugative element protein%2C PFL_4669 family	20	142	7	2995	5%	5%	STY4529	8
+T_RS21560_1	T_RS21560	pseudogene	1995	5.99.1.2	K03169	topB	topB	topB	DNA topoisomerase III	77	148	114	2882	8%	44%	T_RS21560	9
+T_RS21565_1	T_RS21565	accessory_gene	450				T_RS21565	hypothetical protein	hypothetical protein	67	346	0	2798	11%	0%	T_RS21565	10
+STMMW_42061_1	STMMW_42061	cgMLST	654		K03111	ssb	ssb	ssb	single-stranded DNA-binding protein, partial	256	3053	81	10	100%	3%	STMMW_42061	11
+SPC_RS21930_1	SPC_RS21930	pseudogene	951				SPC_RS21930	transposase_SPC_RS21930	putative transposase	83	193	100	2851	9%	34%	SPC_RS21930	12
+T_RS21585_1	T_RS21585	accessory_gene	1245		K02487	pilL	pilL	pilL	PilL	88	280	15	2849	9%	5%	T_RS21585	13
+T_RS21590_1	T_RS21590	pseudogene	420				pilM	pilM	pilus assembly protein PilP	55	115	169	2860	9%	60%	T_RS21590	14
+STY4543_1	STY4543	accessory_gene	1296				pilO2	pilO2	PilO	26	142	6	2996	5%	4%	STY4543	15
+T_RS21610_1	T_RS21610	accessory_gene	588				pilP	pilP	pilus assembly protein PilP	65	290	1	2853	9%	0%	T_RS21610	16
+T_RS21615_1	T_RS21615	accessory_gene	1716				pilQ	pilQ	pilus assembly protein	88	281	6	2857	9%	2%	T_RS21615	17
+T_RS21620_1	T_RS21620	pseudogene	1086				pilR	pilR	pilus assembly protein PilR	77	248	47	2849	9%	16%	T_RS21620	18
+STY4547_1	STY4547	accessory_gene	636				pilS	pilS	IncI1 plasmid conjugative transfer prepilin PilS	22	212	1	2931	7%	0%	STY4547	19
+SPAB_RS21825_1	SPAB_RS21825	accessory_gene	480				SPAB_RS21825	SPAB_RS21825_lytic_transglycosylase	lytic transglycosylase	2	3	0	3141	0%	0%	SPAB_RS21825	20
+T_RS21635_1	T_RS21635	pseudogene	663				T_RS21635	T_RS21635_prepilin_peptidase	Type-IV sectretion leader peptidase/N-methyltransferase	66	137	141	2866	9%	51%	T_RS21635	21
+T_RS21650_1	T_RS21650	accessory_gene	468				T_RS21650	T_RS21650_hypothetical	putative exported protein	58	275	0	2869	9%	0%	T_RS21650	24
+T_RS21655_1	T_RS21655	pseudogene	876				T_RS21655	T_RS21655_toxin_antitoxin_tacA_fam_antitox	TraE	70	260	32	2852	9%	11%	T_RS21655	25
+T_RS21660_1	T_RS21660	accessory_gene	915				T_RS21660	hypothetical protein	putative plasmid transfer protein	67	286	8	2850	9%	3%	T_RS21660	26
+STY4558_1	STY4558	accessory_gene	741				STY4558	integrating conjugative element protein	integrating conjugative element protein%2C PFL_4693 family	83	337	0	2807	11%	0%	STY4558	27
+T_RS21670_1	T_RS21670	accessory_gene	687				T_RS21670	transglycosylase	lytic murein transglycosylase	60	286	1	2857	9%	0%	T_RS21670	28
+T_RS21675_1	T_RS21675	accessory_gene	501				T_RS21675	integrating conjugative element protein	integrating conjugative element protein%2C PFL_4695 family	52	288	0	2856	9%	0%	T_RS21675	29
+T_RS21680_1	T_RS21680	accessory_gene	570		K07448	mrr	mrr	mrr	restriction endonuclease	18	144	2	2998	5%	1%	T_RS21680	30
+T_RS21685_1	T_RS21685	pseudogene	2091				TraD	type IV conjugative transfer system coupling protein TraD	conjugative coupling factor TraD, PFGI-1 class	80	246	23	2875	9%	9%	T_RS21685	31
+T_RS21690_1	T_RS21690	accessory_gene	759				T_RS21690	TIGR03747 family integrating conjugative element membrane protein	integrating conjugative element membrane protein, partial	20	148	1	2995	5%	1%	T_RS21690	32
+SPC_RS22020_1	SPC_RS22020	pseudogene	327				SPC_RS22020	integrating conjugative element protein	integrative conjugative element protein%2C RAQPRD family	19	51	99	2994	5%	66%	SPC_RS22020	33
+T_RS21700_1	T_RS21700	accessory_gene	240				T_RS21700	integrating conjugative element protein	integrating conjugative element protein%2C PFL_4701 family	13	150	0	2994	5%	0%	T_RS21700	34
+T_RS21705_1	T_RS21705	accessory_gene	363				T_RS21705	integrating conjugative element protein	integrating conjugative element membrane protein, partial	11	150	0	2994	5%	0%	T_RS21705	35
+T_RS21715_1	T_RS21715	pseudogene	654				T_RS21715	integrating conjugative element protein	integrating conjugative element protein	30	150	71	2923	7%	32%	T_RS21715	36
+T_RS21720_1	T_RS21720	accessory_gene	900				T_RS21720	integrating conjugative element protein	integrating conjugative element protein%2C PFL_4704 family	18	146	0	2998	5%	0%	T_RS21720	37
+T_RS21725_1	T_RS21725	accessory_gene	1479				T_RS21725	integrating conjugative element protein	integrating conjugative element protein%2C PFL_4705 family	29	149	0	2995	5%	0%	T_RS21725	38
+T_RS21730_1	T_RS21730	accessory_gene	450				T_RS21730	conjugal transfer protein	conjugal transfer protein	18	149	0	2995	5%	0%	T_RS21730	39
+T_RS21740_1	T_RS21740	pseudogene	2424				T_RS21740	conjugative transfer ATPase	Type IV secretory pathway%2C VirB4 components	37	131	18	2995	5%	12%	T_RS21740	40
+T_RS21745_1	T_RS21745	accessory_gene	387				T_RS21745	hypothetical protein	hypothetical protein	15	149	0	2995	5%	0%	T_RS21745	41
+T_RS21750_1	T_RS21750	accessory_gene	393				T_RS21750	integrating conjugative element protein	integrating conjugative element protein	16	149	0	2995	5%	0%	T_RS21750	42
+T_RS21755_1	T_RS21755	accessory_gene	969				T_RS21755	integrating conjugative element protein	integrating conjugative element protein%2C PFL_4710 family	112	343	4	2797	11%	1%	T_RS21755	43
+T_RS21760_1	T_RS21760	accessory_gene	1431				T_RS21760	integrating conjugative element protein	integrating conjugative element protein%2C PFL_4711 family	22	149	0	2995	5%	0%	T_RS21760	44
+T_RS21765_1	T_RS21765	accessory_gene	333				T_RS21765	putative membrane protein	putative membrane protein	20	149	0	2995	5%	0%	T_RS21765	45
+SPC_RS22095_1	SPC_RS22095	accessory_gene	390				SPC_RS22095	hypothetical protein	putative membrane protein	9	139	0	3005	4%	0%	SPC_RS22095	46
+SPC_RS22100_1	SPC_RS22100	pseudogene	243				SPC_RS22100	hypothetical protein	possible exported protein	27	149	28	2967	6%	16%	SPC_RS22100	47
+T_RS21775_1	T_RS21775	accessory_gene	1248				T_RS21775	phosphoadenosine phosphosulfate reductase	phosphoadenosine phosphosulfate reductase	59	195	0	2949	6%	0%	T_RS21775	48
+T_RS21780_1	T_RS21780	accessory_gene	642				T_RS21780	transcriptional regulator	transcriptional regulator	61	259	2	2883	8%	1%	T_RS21780	49
+STMMW_44481_1	STMMW_44481	cgMLST	609				STMMW_44481	hypothetical protein	hypothetical protein	442	3033	65	46	99%	2%	STMMW_44481	50
+T_RS21790_1	T_RS21790	pseudogene	921				T_RS21790	Phage integrase	Phage integrase	78	230	40	2874	9%	15%	T_RS21790	51
+T_RS21795_1	T_RS21795	pseudogene	303				T_RS21795	putative topoisomerase	putative topoisomerase	53	165	134	2845	10%	45%	T_RS21795	52
+T_RS21800_1	T_RS21800	pseudogene	381				T_RS21800	putative DNA binding protein	putative DNA binding protein	50	145	139	2860	9%	49%	T_RS21800	53
+T_RS21810_1	T_RS21810	accessory_gene	453				T_RS21810	hypothetical protein	hypothetical protein	60	283	17	2844	10%	6%	T_RS21810	54
+ACT03_RS17250_1	ACT03_RS17250	accessory_gene	297				ACT03_RS17250	hypothetical protein	hypothetical protein	47	294	5	2845	10%	2%	ACT03_RS17250	55
+T_RS21820_1	T_RS21820	accessory_gene	459				T_RS21820	putative membrane protein	putative membrane protein	61	302	0	2842	10%	0%	T_RS21820	56
+T_RS21825_1	T_RS21825	accessory_gene	1950				T_RS21825	putative membrane protein	putative membrane protein	102	287	9	2848	9%	3%	T_RS21825	57
+T_RS21830_1	T_RS21830	accessory_gene	909				T_RS21830	conserved hypothetical protein	conserved hypothetical protein	79	291	8	2845	10%	3%	T_RS21830	58
+T_RS21835_1	T_RS21835	accessory_gene	900				T_RS21835	putative ABC tranporter	putative ABC tranporter	76	295	5	2844	10%	2%	T_RS21835	59
+STY4595_1	STY4595	pseudogene	360				STY4595	Protein of uncharacterised function (DUF3085)	Protein of uncharacterised function (DUF3085)	62	97	203	2844	10%	68%	STY4595	60
+T_RS21845_1	T_RS21845	pseudogene	270				T_RS21845	hypothetical protein	hypothetical protein	11	125	45	2974	5%	26%	T_RS21845	61
+SLT-BT0631_1	SLT-BT0631	pseudogene	1275		K03502	samB	samB	samB	mutagenesis by UV and mutagens; related to umuDC operon	330	847	273	2024	36%	24%	SLT-BT0631	62
+SLT-BT0641_1	SLT-BT0641	pseudogene	423	3.4.21.-	K03503	samA	samA	samA	protein related to umudc operon	229	822	139	2183	31%	14%	SLT-BT0641	63
+T_RS21855_1	T_RS21855	accessory_gene	378				T_RS21855	hypothetical protein	hypothetical protein	3	114	0	3030	4%	0%	T_RS21855	64
+STM2695_1	STM2695	pseudogene	1101		K06905		STM2695	phage late control D family protein	phage late control D family protein	281	745	62	2337	26%	8%	STM2695	66
+STM2696_1	STM2696	accessory_gene	486		K06906		STM2696	phage tail protein	phage tail protein	178	775	3	2366	25%	0%	STM2696	67
+STM2698_1	STM2698	accessory_gene	120				STM2698	phage P2 GpE family protein	phage P2 GpE family protein	50	725	0	2419	23%	0%	STM2698	68
+STM2699_1	STM2699	accessory_gene	303				STM2699	mu-like prophage FluMu gp41 family protein	mu-like prophage FluMu gp41 family protein	109	725	1	2418	23%	0%	STM2699	69
+STM2700_1	STM2700	accessory_gene	516		K06908		STM2700	phage major tail tube protein	phage major tail tube protein	145	707	2	2435	23%	0%	STM2700	70
+STM2701_1	STM2701	accessory_gene	1173		K06907		STM2701	major tail sheath protein	major tail sheath protein	243	799	9	2336	26%	1%	STM2701	71
+STMMW_18441_1	STMMW_18441	cgMLST	723		K13741	sopE2	sopE2	sopE2	guanine nucleotide exchange factor sopE2	484	3003	128	13	100%	4%	STMMW_18441	72
+SED_RS14775_1	SED_RS14775	accessory_gene	606				SED_RS14775	phage tail protein I	phage tail protein I	177	767	11	2366	25%	1%	SED_RS14775	73
+STM2708_1	STM2708	accessory_gene	909				STM2708	baseplate assembly protein J	baseplate assembly protein J	211	706	1	2437	22%	0%	STM2708	74
+STM2709_1	STM2709	accessory_gene	360		K06903		STM2709	baseplate assembly protein	baseplate assembly protein	155	794	0	2350	25%	0%	STM2709	75
+STM2710_1	STM2710	accessory_gene	579				STM2710	baseplate assembly protein	baseplate assembly protein	187	796	1	2347	25%	0%	STM2710	76
+STM2711_1	STM2711	pseudogene	447				STM2711	phage virion morphogenesis protein	phage virion morphogenesis protein	137	469	85	2590	18%	15%	STM2711	77
+CFSAN001992_RS20115_1	CFSAN001992_RS20115	pseudogene	396				CFSAN001992_RS20115	peptidase	peptidase	83	8	367	2769	12%	98%	CFSAN001992_RS20115	80
+SEEE1427_RS21155_1	SEEE1427_RS21155	pseudogene	516	3.2.1.17	K01185		SEEE1427_RS21155	glycoside hydrolase	glycoside hydrolase	72	202	92	2850	9%	31%	SEEE1427_RS21155	81
+STM2716_1	STM2716	accessory_gene	216				STM2716	membrane protein	membrane protein	65	785	1	2358	25%	0%	STM2716	82
+STM2717_1	STM2717	accessory_gene	204				STM2717	phage Tail protein X family protein	phage Tail protein X family protein	78	796	0	2348	25%	0%	STM2717	83
+STM2718_1	STM2718	accessory_gene	465				STM2718	head completion/stabilization protein	head completion/stabilization protein	161	784	0	2360	25%	0%	STM2718	84
+SEAG_RS13765_1	SEAG_RS13765	pseudogene	1062				SEAG_RS13765	phage capsid protein	phage capsid protein	200	493	118	2533	19%	19%	SEAG_RS13765	85
+STM2721_1	STM2721	accessory_gene	834				STM2721	phage capsid protein	phage capsid protein	190	780	1	2363	25%	0%	STM2721	86
+STM2722_1	STM2722	accessory_gene	1767				STM2722	oxidoreductase	oxidoreductase	252	687	4	2453	22%	1%	STM2722	87
+T_RS22005_1	T_RS22005	accessory_gene	696				T_RS22005	hypothetical protein	hypothetical protein	7	129	0	3015	4%	0%	T_RS22005	88
+T_RS22010_1	T_RS22010	accessory_gene	1065				T_RS22010	hypothetical protein	hypothetical protein	18	129	0	3015	4%	0%	T_RS22010	89
+T_RS22015_1	T_RS22015	accessory_gene	1065				T_RS22015	hypothetical protein	hypothetical protein	9	128	0	3016	4%	0%	T_RS22015	90
+STM2729_1	STM2729	pseudogene	2430				STM2729	replication endonuclease from prophage-like region	replication endonuclease from prophage-like region	217	159	294	2691	14%	65%	STM2729	92
+T_RS17310_1	T_RS17310	pseudogene	858	2.1.1.72	K06223	dam	dam	dam	DNA adenine methylase	197	441	339	2364	25%	43%	T_RS17310	93
+STMMW_32082_1	STMMW_32082	accessory_gene	228				STMMW_32082	phage protein	DksA/TraR C4-type	170	914	40	2190	30%	4%	STMMW_32082	95
+T_RS17300_1	T_RS17300	accessory_gene	234				T_RS17300	hypothetical protein	hypothetical protein	122	640	3	2501	20%	0%	T_RS17300	96
+STMMW_32101_1	STMMW_32101	accessory_gene	339				STMMW_32101	phage protein	phage protein	168	971	1	2172	31%	0%	STMMW_32101	97
+STMMW_32102_1	STMMW_32102	pseudogene	201				STMMW_32102	fil domain protein	fil domain protein	157	612	152	2380	24%	20%	STMMW_32102	98
+STM2739_1	STM2739	pseudogene	1026				STM2739	integrase	integrase	130	495	72	2577	18%	13%	STM2739	100
+STMMW_44471_1	STMMW_44471	accessory_gene	258		K09982		STMMW_44471	hypothetical protein	hypothetical protein	178	2920	44	180	94%	1%	STMMW_44471	101
+STMMW_44461_1	STMMW_44461	accessory_gene	1632			yjhP	yjhP	yjhP	putative SAM-dependent methyltransferase	760	2917	73	154	95%	2%	STMMW_44461	102
+T_RS22115_1	T_RS22115	accessory_gene	1971				vexE	vexE	Vi polysaccharide export protein VexE	9	119	0	3025	4%	0%	T_RS22115	104
+T_RS22120_1	T_RS22120	accessory_gene	1305		K10107		vexD	vexD	sugar transporter	6	119	0	3025	4%	0%	T_RS22120	105
+T_RS22125_1	T_RS22125	accessory_gene	696		K09689		vexC	vexC	VI polysaccharide export ATP-binding protein VexC	6	119	0	3025	4%	0%	T_RS22125	106
+T_RS22130_1	T_RS22130	accessory_gene	795		K09688		vexB	vexB	sugar transporter	7	119	0	3025	4%	0%	T_RS22130	107
+T_RS22135_1	T_RS22135	accessory_gene	1068				vexA	vexA	VI polysaccharide export protein vexA/tviF	8	119	0	3025	4%	0%	T_RS22135	108
+T_RS22140_1	T_RS22140	accessory_gene	1737				tviE	tviE	Vi polysaccharide biosynthesis protein VipC/TviE	24	119	0	3025	4%	0%	T_RS22140	109
+SLT-BT0471_1	SLT-BT0471	accessory_gene	504		K07480	insB3	insB3	insB3	transposase	51	168	4	2972	5%	2%	SLT-BT0471	110
+SLT-BT0481_1	SLT-BT0481	accessory_gene	213				SLT-BT0481	insertion element protein	xanthine dehydrogenase subunit XdhA	27	199	8	2937	7%	4%	SLT-BT0481	111
+STY4659_1	STY4659	accessory_gene	2496				tviD	tviD	Vi polysaccharide biosynthesis protein TviD	32	119	0	3025	4%	0%	STY4659	112
+T_RS22150_1	T_RS22150	accessory_gene	1047	5.1.3.7	K02473	wbpP	tviC	tviC	Vi polysaccharide biosynthesis protein VipB/TviC	9	118	1	3025	4%	1%	T_RS22150	113
+T_RS22155_1	T_RS22155	accessory_gene	1278	1.1.1.-	K02474	wbpO	tviB	tviB	Vi polysaccharide biosynthesis protein VipA/TviB	8	119	0	3025	4%	0%	T_RS22155	114
+T_RS22160_1	T_RS22160	accessory_gene	540				tviA	tviA	Vi polysaccharide biosynthesis protein TviA	10	116	3	3025	4%	3%	T_RS22160	115
+T_RS22170_1	T_RS22170	pseudogene	1512				T_RS22170	DNA helicase	DNA helicase IV	61	164	104	2876	9%	39%	T_RS22170	116
+T_RS22175_1	T_RS22175	accessory_gene	1590				T_RS22175	integrating relaxase	integrating conjugative element relaxase%2C PFGI-1 class	40	168	4	2972	5%	2%	T_RS22175	117
+T_RS22180_1	T_RS22180	pseudogene	1014				T_RS22180	recombinase/integrase	tyrosine recombinase XerD	40	149	24	2971	6%	14%	T_RS22180	118
+STMMW_42671_1	STMMW_42671	accessory_gene	294				STMMW_42671	CopG family transcriptional regulator	CopG family transcriptional regulator	153	2064	16	1064	66%	1%	STMMW_42671	119
+STMMW_42681_1	STMMW_42681	pseudogene	492				STMMW_42681	GNAT family acetyltransferase	GNAT family acetyltransferase	229	1968	134	1042	67%	6%	STMMW_42681	120
+T_RS22195_1	T_RS22195	accessory_gene	453				T_RS22195	Putative membrane protein (fragment)	Putative membrane protein (fragment)	20	126	2	3016	4%	2%	T_RS22195	121
+X506_RS09050_1	X506_RS09050	pseudogene	4041				X506_RS09050	hypothetical protein	hypothetical protein	26	50	114	2980	5%	70%	X506_RS09050	122
+T_RS22225_1	T_RS22225	pseudogene	231				T_RS22225	hypothetical protein	hypothetical protein	124	113	501	2530	20%	82%	T_RS22225	124
+SPAB_RS04735_1	SPAB_RS04735	pseudogene	1263				SPAB_RS04735	integrase	integrase	152	368	118	2658	15%	24%	SPAB_RS04735	127
